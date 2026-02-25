@@ -2,7 +2,7 @@
 this home luxury kitchen analysis dashboard tracks key performance indicators.it highlight $159.3M in total revenue (up 26.23%)and 53.6M unit sold.Visuals include revenue by product and state,sales channel splits(52.61% in-store vs47.39% online),and regional ranking from Texas to South Dakota.
 This project provides a comprehensive data analysis of the Home Luxury Kitchen sector for the year 2019-2022 . The analysis focuses on revenue growth, product performance, and regional sales distribution across the United States.
 
-![The overview analysis] (Screenshot 2026-02-25 035508.png)
+![The overview analysis](Screenshot 2026-02-25 035508.png)
 
 
 
@@ -17,8 +17,8 @@ Key Insights
 
 * Sales Channels: Revenue is well-balanced between In-Store (52.61%) and Online (47.39%) channels.
 
-![Regional analysis] (Screenshot 2026-02-25 035630.png)
+![Regional analysis](Screenshot 2026-02-25 035630.png)
 *I Used
--Microsoft Excel: Used for data cleaning, PivotTables, and dashboard creation.
+-Microsoft Excel:  for data cleaning, PivotTables, and dashboard creation.
 
 -Data Visualization: Interactive charts including maps, Donut charts, and Bar charts.
