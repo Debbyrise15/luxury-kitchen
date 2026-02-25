@@ -17,7 +17,7 @@ Key Insights
 
 * Sales Channels: Revenue is well-balanced between In-Store (52.61%) and Online (47.39%) channels.
 
-
+![Regional analysis] (Screenshot 2026-02-25 035630.png)
 *I Used
 -Microsoft Excel: Used for data cleaning, PivotTables, and dashboard creation.
 
